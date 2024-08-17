@@ -8,6 +8,11 @@ node_modules/
 dist/
 web-build/
 fonts/
+assets/adaptive-icon.png
+assets/favicon.png
+assets/icon.png
+assets/snack-icon.png
+assets/splash.png
 
 # Native
 *.orig.*
